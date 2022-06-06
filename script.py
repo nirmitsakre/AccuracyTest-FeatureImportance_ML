@@ -1,19 +1,19 @@
 import pandas as pd
 
 #Read all csv files
-data1 = pd.read_csv('/Users/nirmit/Documents/paper2_cores_dstests/data/0031_M10.csv', 
+data1 = pd.read_csv('0031_M10.csv', 
                     delimiter = ' ', 
                     header=None)
-data2 = pd.read_csv('/Users/nirmit/Documents/paper2_cores_dstests/data/0031_M20.csv', 
+data2 = pd.read_csv('0031_M20.csv', 
                     delimiter = ' ', 
                     header=None)
-data3 = pd.read_csv('/Users/nirmit/Documents/paper2_cores_dstests/data/0031_L20.csv', 
+data3 = pd.read_csv('0031_L20.csv', 
                     delimiter = ' ', 
                     header=None)
-data4 = pd.read_csv('/Users/nirmit/Documents/paper2_cores_dstests/data/0031_L30.csv', 
+data4 = pd.read_csv('0031_L30.csv', 
                     delimiter = ' ', 
                     header=None)
-data5 = pd.read_csv('/Users/nirmit/Documents/paper2_cores_dstests/data/0031_L40.csv', 
+data5 = pd.read_csv('0031_L40.csv', 
                     delimiter = ' ', 
                     header=None)
 
