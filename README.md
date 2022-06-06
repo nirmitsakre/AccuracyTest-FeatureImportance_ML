@@ -21,6 +21,6 @@ Yes.
 2.1. x-position high feature importance: Based on collision speed and cloud size, the x-position can be highly    
                                          simulation model dependent.
                                     
-2.2. y-velocity high feature importance: Since we expect no specific prefect o y-velocity value due to 
-                                        near symmetry of our collision along y = 0 plane
+2.2. y-velocity high feature importance: We expect no specific preffered y-velocity value due to 
+                                        near symmetry of all our 5 collision models along y = 0 plane
                                       
