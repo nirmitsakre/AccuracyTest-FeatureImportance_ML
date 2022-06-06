@@ -1,5 +1,5 @@
 # AccuracyTest_And_FeatureImportance
-Non-physical properties (38 features, many of them are irrelevant) of dense pockets of gas (called dense cores) extracted from 5 simulations of colliding molecular clouds from Sakre et al. 2022 (in prep.)
+Physical and non-physical properties (38 features, many of them are irrelevant) of dense pockets of gas (called dense cores) extracted from 5 simulations of colliding molecular clouds from Sakre et al. 2022 (in prep.)
 
 Purpose: 1. To predict model from test cores (50 percent data) 
          2. To find importance of features (properties)
